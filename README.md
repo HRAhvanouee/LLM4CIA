@@ -1,7 +1,7 @@
 
-# 🔗  Engineering Change Propagation with Knowledge Graphs and Agentic LLMs
+# 🔗  Engineering Change Impact Analysis with Knowledge Graphs and Agentic LLMs
 
-This repository contains the implementation and resources for our approach to **automated Engineering Change (EC) propagation** in Industry 4.0 environments.
+This repository contains the implementation and resources for our developed Framework **LLM4CIA** to **automated Engineering Change (EC) propagation** and **Change Impact Analysis** in Industry 4.0 environments.
 
 
 ## 📄 Overview
